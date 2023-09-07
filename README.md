@@ -1,2 +1,2 @@
 # C-GEMM
-C-GEMM - C++ General Matrix Multiplication benchmarks 
+C-GEMM - C++ GE-neral M-atrix M-ultiplication benchmarks 
